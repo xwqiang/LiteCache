@@ -1,7 +1,7 @@
 package com.test.ref.cache.liteCache;
 
 
-public class Test {
+public class TestUserCache {
 
 public static void main(String[] args ){
 		LiteCache<UserInfo> c = new LiteCache<UserInfo>();
